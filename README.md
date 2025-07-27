@@ -14,11 +14,13 @@
 ---
 
 🧾 Professional Summary  
+
 Results-driven Java Developer with 2.7+ years of experience crafting scalable, high-performance backend systems using Java, Spring Boot, and Microservices Architecture. Proficient in building RESTful APIs, integrating Kafka messaging systems, and working with MySQL databases. Specialized in parsing clinical data (XML/JSON), developing reusable components, and optimizing backend logic in healthcare and enterprise domains.
 
 ---
 
 🛠️ Technical Skills  
+
 • Languages: Java 8+, JDK 11  
 • Frameworks: Spring Boot, Spring MVC, Hibernate, JPA  
 • Databases: MySQL, MySQL Workbench  
@@ -65,6 +67,7 @@ Highlights:
 ---
 
 🧠 Strengths  
+
 • Solid understanding of domain-driven design and scalable backend architecture  
 • Skilled in healthcare data modeling (XML/JSON → DB)  
 • Strong debugger with hands-on agile experience  
@@ -73,6 +76,7 @@ Highlights:
 ---
 
 💼 Work Preferences  
+
 • Experience: 2.7 Years  
 • Current Company: Kavanant Global LLP  
 • Notice Period: 30 Days  
@@ -83,7 +87,8 @@ Highlights:
 
 ---
 
-📬 Contact Information  
+📬 Contact Information 
+
 • Mobile: +91 9603561893  
 • Email: prasannakumar72tata@gmail.com  
 • LinkedIn & GitHub: www.linkedin.com/in/prasanna-kumar-tata-java-springboot-developer-software-engineer  
@@ -91,6 +96,7 @@ Highlights:
 ---
 
 💬 Communication Style  
+
 • Clear and professional in email & LinkedIn communication  
 • Focuses on skills and capabilities rather than flattery  
 • Proactive and confident in engaging with HR and technical recruiters  
