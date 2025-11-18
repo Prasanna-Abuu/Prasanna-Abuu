@@ -66,12 +66,18 @@ Highlights:
 
 ---
 
-🧠 Strengths  
+🧩 Roles & Responsibilities
 
-• Solid understanding of domain-driven design and scalable backend architecture  
-• Skilled in healthcare data modeling (XML/JSON → DB)  
-• Strong debugger with hands-on agile experience  
-• Reusable, clean code writing and modular service design  
+• Develop and maintain applications using Java 8+, Spring Boot, Microservices.
+• Build and optimize REST APIs with proper validation and error handling.
+• Work with MySQL, JPA/Hibernate for database operations and mappings.
+• Implement Kafka producers/consumers for inter-service communication.
+• Handle XML/JSON processing using JAXB, Jackson, and custom utilities.
+• Write clean, efficient code and perform unit testing with JUnit.
+• Add logging with SLF4J/Logback and support application debugging.
+• Review code, fix bugs, and improve application performance.
+• Collaborate with teams to translate requirements into technical solutions.
+• Use Git/GitLab/GitHub for version control and project management.
 
 ---
 
@@ -84,6 +90,16 @@ Highlights:
 • Expected CTC: ₹7 LPA and above  
 • Location Preference: Remote / Hybrid / Onsite (Pan India)  
 • Target Companies: TCS, Infosys, Capgemini, Wipro, Accenture, Cognizant, Yesh Technologies, and other top-tier companies  
+
+
+---
+
+🧠 Strengths  
+
+• Solid understanding of domain-driven design and scalable backend architecture  
+• Skilled in healthcare data modeling (XML/JSON → DB)  
+• Strong debugger with hands-on agile experience  
+• Reusable, clean code writing and modular service design  
 
 ---
 
