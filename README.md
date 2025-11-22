@@ -68,16 +68,16 @@ Highlights:
 
 🧩 Roles & Responsibilities
 
-• Develop and maintain applications using Java 8+, Spring Boot, Microservices.
-• Build and optimize REST APIs with proper validation and error handling.
-• Work with MySQL, JPA/Hibernate for database operations and mappings.
-• Implement Kafka producers/consumers for inter-service communication.
-• Handle XML/JSON processing using JAXB, Jackson, and custom utilities.
-• Write clean, efficient code and perform unit testing with JUnit.
-• Add logging with SLF4J/Logback and support application debugging.
-• Review code, fix bugs, and improve application performance.
-• Collaborate with teams to translate requirements into technical solutions.
-• Use Git/GitLab/GitHub for version control and project management.
+• Develop and maintain applications using Java 8+, Spring Boot, Microservices.                                                                                                                               
+• Build and optimize REST APIs with proper validation and error handling.                                                                                                                                    
+• Work with MySQL, JPA/Hibernate for database operations and mappings.                                                                                                                                       
+• Implement Kafka producers/consumers for inter-service communication.                                                                                                                                       
+• Handle XML/JSON processing using JAXB, Jackson, and custom utilities.                                                                                                                                      
+• Write clean, efficient code and perform unit testing with JUnit.                                                                                                                                           
+• Add logging with SLF4J/Logback and support application debugging.                                                                                                                                          
+• Review code, fix bugs, and improve application performance.                                                                                                                                                
+• Collaborate with teams to translate requirements into technical solutions.                                                                                                                                 
+• Use Git/GitLab/GitHub for version control and project management.                                                                                                                                          
 
 ---
 
