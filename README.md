@@ -84,10 +84,13 @@ Highlights:
 💼 Work Preferences  
 
 • Current Company: Telemerge IT Services
+
 • Designation: Software Engineer
+
 • Experience: 3.4 Years
 
 • Previous Company: Kavanant Global LLP
+
 • Designation: Software Engineer
 
 • Notice Period: 30 Days
@@ -97,6 +100,7 @@ Highlights:
 • Expected CTC: ₹
 
 • Location Preference: Remote / Hybrid / Onsite (Pan India)
+
 📧 Email: prasannakumar752tata@gmail.com
 
 
