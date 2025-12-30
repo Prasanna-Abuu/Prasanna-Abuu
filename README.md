@@ -15,7 +15,7 @@
 
 🧾 Professional Summary  
 
-Results-driven Java Developer with 2.7+ years of experience crafting scalable, high-performance backend systems using Java, Spring Boot, and Microservices Architecture. Proficient in building RESTful APIs, integrating Kafka messaging systems, and working with MySQL databases. Specialized in parsing clinical data (XML/JSON), developing reusable components, and optimizing backend logic in healthcare and enterprise domains.
+Results-driven Java Developer with 3.4 years of experience crafting scalable, high-performance backend systems using Java, Spring Boot, and Microservices Architecture. Proficient in building RESTful APIs, integrating Kafka messaging systems, and working with MySQL databases. Specialized in parsing clinical data (XML/JSON), developing reusable components, and optimizing backend logic in healthcare and enterprise domains.
 
 ---
 
@@ -83,13 +83,21 @@ Highlights:
 
 💼 Work Preferences  
 
-• Experience: 2.7 Years  
-• Current Company: Kavanant Global LLP  
-• Notice Period: 30 Days  
-• Preferred Roles: Java Developer, Backend Developer, Microservices Engineer  
-• Expected CTC: ₹7 LPA and above  
-• Location Preference: Remote / Hybrid / Onsite (Pan India)  
-• Target Companies: TCS, Infosys, Capgemini, Wipro, Accenture, Cognizant, Yesh Technologies, and other top-tier companies  
+• Current Company: Telemerge IT Services
+• Designation: Software Engineer
+• Experience: 3.4 Years
+
+• Previous Company: Kavanant Global LLP
+• Designation: Software Engineer
+
+• Notice Period: 30 Days
+
+•.Preferred Roles: Java Developer | Backend Developer | Microservices Engineer
+
+• Expected CTC: ₹
+
+• Location Preference: Remote / Hybrid / Onsite (Pan India)
+📧 Email: prasannakumar752tata@gmail.com
 
 
 ---
